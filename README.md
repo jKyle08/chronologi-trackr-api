@@ -6,7 +6,7 @@ A microservice-based Daily Time Record (DTR) API built with Node.js, Express, an
 ## 🚀 Setup
 
 1. Clone the repo:
-   git clone https://github.com/your-org/chronologi-trackr-api.git
+   git clone https://github.com/jKyle08/chronologi-trackr-api.git
    cd chronologi-trackr-api
 
 2.Install dependencies:
